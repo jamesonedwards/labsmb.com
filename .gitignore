@@ -1,0 +1,14 @@
+*.ppj
+*.ppw
+*.ppx
+*.dsk
+custom_config.php
+database.php
+deploy/
+live/
+www/application/cache/*
+www/application/logs/*
+/www/images/*.psd
+/www/projects/*.jpg
+/www/projects/*.png
+/www/projects/*.gif
